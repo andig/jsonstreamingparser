@@ -1,8 +1,8 @@
 {
-    "name": "im0rtality/jsonstreamingparser",
+    "name": "andig/jsonstreamingparser",
     "description": "A streaming parser for JSON in PHP.",
     "keywords": ["json", "parser", "streaming"],
-    "homepage": "https://github.com/salsify/jsonstreamingparser",
+    "homepage": "https://github.com/andig/jsonstreamingparser",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -18,6 +18,10 @@
         {
             "name": "Laurynas Veržukauskas",
             "homepage": "http://github.com/Im0rtality/"
+        },
+        {
+            "name": "Andreas Goetz",
+            "homepage": "http://github.com/andig/"
         }
     ],
     "require": {
